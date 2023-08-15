@@ -1,6 +1,6 @@
 # Hands-on Nomad
 
-Source files from my [Hands-on Nomad](https://rootknecht.net/blog/hands-on-nomad/) blog post.
+Source files for my [Hands-on Nomad](https://rootknecht.net/blog/hands-on-nomad/) blog post.
 
 ## Install Nomad on a single node
 
