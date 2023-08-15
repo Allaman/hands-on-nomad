@@ -1,0 +1,3 @@
+namespace "*" {
+  capabilities = ["list-jobs"]
+}
